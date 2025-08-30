@@ -1,0 +1,35 @@
+Assignment Instructions:
+
+�� Task-1: Template to Blade Conversion → 25%
+
+· You will be provided with an HTML/Bootstrap template. Convert this template into a Laravel Blade layout with proper structure (master layout, header, footer, partials, includes).
+
+· Template link: Bootstrap Template
+
+�� Task-2: Database Design to Migration → 25%
+
+· A database diagram/image will be provided. Create appropriate Laravel migration files to represent the database schema accurately.
+
+· Diagram link: Database Diagram
+
+· Another link: Google Drive
+
+�� Task-3: Form Submission + Response → 25%
+
+· Create a form (e.g., contact form or task creation) that will be submitted via POST request.
+
+· After submission:
+
+o Show a success message using Session.
+
+o Redirect the user to a confirmation page showing the submitted data.
+
+
+
+�� Task-4: Bonus Task (Cookie + File Upload) → 15%
+
+· Implement a file upload feature in the form.
+
+· Save the uploaded file in the storage directory.
+
+· On success, set a cookie (e.g., file_uploaded=true) in the response header.
